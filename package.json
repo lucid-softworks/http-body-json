@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/http-body-json",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Bounded JSON request parsing and JSON response creation.",
   "keywords": [
     "body",
